@@ -40,7 +40,9 @@ const Experience = () => {
                     ))
                 }
             </div>
-            
+            <div>
+                ini kerjaan gue
+            </div>
         </>
     )
 }
